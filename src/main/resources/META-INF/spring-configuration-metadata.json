@@ -1,0 +1,94 @@
+{
+  "properties": [
+    {
+      "name": "cors.enable",
+      "type": "java.lang.Boolean",
+      "sourceType": "io.github.changebooks.web.CorsProperties"
+    },
+    {
+      "name": "cors.path-pattern",
+      "type": "java.lang.String",
+      "sourceType": "io.github.changebooks.web.CorsProperties"
+    },
+    {
+      "name": "cors.allow-headers",
+      "type": "java.lang.String",
+      "sourceType": "io.github.changebooks.web.CorsProperties"
+    },
+    {
+      "name": "cors.allow-methods",
+      "type": "java.lang.String",
+      "sourceType": "io.github.changebooks.web.CorsProperties"
+    },
+    {
+      "name": "cors.allow-origin-patterns",
+      "type": "java.lang.String",
+      "sourceType": "io.github.changebooks.web.CorsProperties"
+    },
+    {
+      "name": "cors.allow-credentials",
+      "type": "java.lang.Boolean",
+      "sourceType": "io.github.changebooks.web.CorsProperties"
+    },
+    {
+      "name": "cors.max-age",
+      "type": "java.lang.Long",
+      "sourceType": "io.github.changebooks.web.CorsProperties"
+    },
+    {
+      "name": "docket.enable",
+      "type": "java.lang.Boolean",
+      "sourceType": "io.github.changebooks.web.DocketProperties"
+    },
+    {
+      "name": "docket.title",
+      "type": "java.lang.String",
+      "sourceType": "io.github.changebooks.web.DocketProperties"
+    },
+    {
+      "name": "docket.description",
+      "type": "java.lang.String",
+      "sourceType": "io.github.changebooks.web.DocketProperties"
+    },
+    {
+      "name": "docket.version",
+      "type": "java.lang.String",
+      "sourceType": "io.github.changebooks.web.DocketProperties"
+    },
+    {
+      "name": "docket.license",
+      "type": "java.lang.String",
+      "sourceType": "io.github.changebooks.web.DocketProperties"
+    },
+    {
+      "name": "docket.contact.name",
+      "type": "java.lang.String",
+      "sourceType": "io.github.changebooks.web.DocketProperties.Contact"
+    },
+    {
+      "name": "docket.contact.url",
+      "type": "java.lang.String",
+      "sourceType": "io.github.changebooks.web.DocketProperties.Contact"
+    },
+    {
+      "name": "docket.contact.email",
+      "type": "java.lang.String",
+      "sourceType": "io.github.changebooks.web.DocketProperties.Contact"
+    },
+    {
+      "name": "docket.token.name",
+      "type": "java.lang.String",
+      "sourceType": "io.github.changebooks.web.DocketProperties.Token"
+    },
+    {
+      "name": "docket.token.description",
+      "type": "java.lang.String",
+      "sourceType": "io.github.changebooks.web.DocketProperties.Token"
+    },
+    {
+      "name": "docket.token.example",
+      "type": "java.lang.String",
+      "sourceType": "io.github.changebooks.web.DocketProperties.Token"
+    }
+  ]
+}
